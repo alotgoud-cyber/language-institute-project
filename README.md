@@ -6,12 +6,11 @@ This project is a business web application designed for a language institute. Th
 
 The goal is to provide a simple, user-friendly experience that helps students find suitable language programs efficiently.
 
---
 ## 🎯 Business Problem
 
 Many students face difficulties when searching for suitable language courses and completing the registration process. Traditional methods are often time-consuming and not user-friendly.
 
----
+
 
 ## 💡 Proposed Solution
 
@@ -22,7 +21,7 @@ This project provides a digital platform that enables users to:
 * Register بسهولة عبر الإنترنت
 * Contact the institute
 
----
+
 
 ## 🚀 Key Features
 
@@ -34,7 +33,7 @@ This project provides a digital platform that enables users to:
 * 💬 Read student reviews
 * 📞 Contact form
 
----
+
 
 ## 🎨 UI/UX Design
 
@@ -48,14 +47,14 @@ The user interface is designed with a focus on:
 🔗 Figma Design Link:
 https://www.figma.com/design/mjTT7Tb45aT4qUJ0BtbRhF/institute?node-id=0-1&p=f
 
----
+
 
 ## 🛠️ Tools & Technologies
 
 * Figma (UI/UX Design)
 * GitHub (Version Control)
 
----
+
 
 ## 📂 Project Structure
 
@@ -69,12 +68,12 @@ language-institute-project/
     ├── details.png
 ```
 
----
+
 
 ## 👥 Team Members
 
 
----
+
 
 ## 📅 Project Milestone
 
@@ -84,7 +83,7 @@ This repository represents **Milestone 1** of the project, which includes:
 * UI/UX prototype design
 * GitHub repository setup
 
----
+
 
 ## 📌 Future Work
 
