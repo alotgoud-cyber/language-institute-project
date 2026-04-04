@@ -6,8 +6,7 @@ This project is a business web application designed for a language institute. Th
 
 The goal is to provide a simple, user-friendly experience that helps students find suitable language programs efficiently.
 
----
-
+--
 ## 🎯 Business Problem
 
 Many students face difficulties when searching for suitable language courses and completing the registration process. Traditional methods are often time-consuming and not user-friendly.
